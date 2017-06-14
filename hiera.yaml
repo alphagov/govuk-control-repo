@@ -1,0 +1,6 @@
+:hierarchy:
+  - 'node/%{::trusted.certname}'
+  - 'common'
+
+:backends:
+  - yaml
